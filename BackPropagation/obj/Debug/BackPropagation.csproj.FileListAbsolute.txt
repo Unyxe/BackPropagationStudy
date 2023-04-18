@@ -1,0 +1,7 @@
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\BackPropagation\BackPropagation\bin\Debug\BackPropagation.exe.config
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\BackPropagation\BackPropagation\bin\Debug\BackPropagation.exe
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\BackPropagation\BackPropagation\bin\Debug\BackPropagation.pdb
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\BackPropagation\BackPropagation\obj\Debug\BackPropagation.csprojAssemblyReference.cache
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\BackPropagation\BackPropagation\obj\Debug\BackPropagation.csproj.CoreCompileInputs.cache
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\BackPropagation\BackPropagation\obj\Debug\BackPropagation.exe
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\BackPropagation\BackPropagation\obj\Debug\BackPropagation.pdb
